@@ -1,0 +1,37 @@
+{
+  "name": "dek_barebones_express_app",
+  "version": "0.0.0",
+  "description": "A barebones node express ejs application featuring bootstrap.",
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Bootstrap"
+  ],
+  "author": {
+    "name": "David Bow (Dekita)",
+    "email": "dekita@dekyde.com",
+    "url": "http://www.dekyde.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dekita/barebones-express-ejs"
+  },
+
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+
+  "dependencies": {
+    "express": "~4.14.0",
+    "ejs": "~2.4.2"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": true,
+  "scripts": {
+    "start": "node source/server/main.js"
+  },
+  "main": "source/server/main.js"
+}
