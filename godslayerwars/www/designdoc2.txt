@@ -1,0 +1,68 @@
+2 = food
+3 forest
+4 swamp
+
+
+Food icon 266
+
+Gold icon 313
+
+Bow icon 102         22
+Shield icon 128
+Cane icon 101
+Scout icon 243
+Healer icon 219
+Priest icon 221
+Spear icon 107
+Time icon 220
+Death icon 298
+Beast icon 209
+
+
+38   6
+
+
+archer
+scout
+healer
+pack beast
+dragon lance
+bulwark
+priest
+
+
+food 21
+Scout 22
+healer 23
+beast 24
+dragon lance 25
+priest 26
+archer 30
+bulwark 31
+
+
+
+10,6
+
+
+Veloria - Water - Blue
+Vulcan - Fire - Red
+Calaria - Nature - Green
+Xeratos - Death - Black
+Mrissa - Justice - Purple
+Brac - Earth - Brown
+
+
+
+
+41 god
+42 race
+43 gender
+44 class
+
+
+48 god
+49 race
+50 gender
+51 class
+

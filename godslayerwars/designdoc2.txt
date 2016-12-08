@@ -1,0 +1,121 @@
+2 = food
+3 forest
+4 swamp
+
+
+Food icon 266
+
+Gold icon 313
+
+Bow icon 102         22
+Shield icon 128
+Cane icon 101
+Scout icon 243
+Healer icon 219
+Priest icon 221
+Spear icon 107
+Time icon 220
+Death icon 298
+Beast icon 209
+
+
+38   6
+
+
+archer
+scout
+healer
+pack beast
+dragon lance
+bulwark
+priest
+
+
+food 21
+Scout 22
+healer 23
+beast 24
+dragon lance 25
+priest 26
+archer 30
+bulwark 31
+
+
+
+10,6
+
+
+Veloria - Water - Blue
+Vulcan - Fire - Red
+Calaria - Nature - Green
+Xeratos - Death - Black
+Mrissa - Justice - Purple
+Brac - Earth - Brown
+
+
+
+
+41 god
+42 race
+43 gender
+44 class
+
+
+48 god
+49 race
+50 gender
+51 class
+
+67 male female
+61 God
+62 race
+64 class
+
+
+74 male female
+68 god
+69 race
+71 class
+
+
+87 male female
+81 god
+82 race
+84 class
+
+
+
+
+
+
+https://github.com/GodSlayerWars/GameBuild1
+
+
+Blue Red Green
+Blue red black
+Blue red purple
+blue red brown
+blue green black
+blue green purple
+blue green brown
+blue black purple
+blue black brown
+blue purple brown
+red green black
+red green purple
+red green brown
+red black purple
+red black brown
+red purple brown
+green black purple
+green black brown
+green purple brown
+
+
+
+https://api.preview.openshift.com/oapi/v1/namespaces/godslayerwars/buildconfigs/godslayerwars/webhooks/9ec6d82f02ab0a18/github
+
+
+
+
+
