@@ -1,0 +1,15 @@
+Human       Elf        Imp       Goblin       Anima
+
+Hero x6
+Warrior x6
+Ranger x6
+Sage x6
+
+
+Gods:
+Blue
+Red
+Green
+Black
+Purple
+Brown

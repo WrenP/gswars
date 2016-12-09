@@ -66,3 +66,56 @@ Brac - Earth - Brown
 50 gender
 51 class
 
+67 male female
+61 God
+62 race
+64 class
+
+
+74 male female
+68 god
+69 race
+71 class
+
+
+87 male female
+81 god
+82 race
+84 class
+
+
+
+
+
+
+https://github.com/GodSlayerWars/GameBuild1
+
+
+Blue Red Green
+Blue red black
+Blue red purple
+blue red brown
+blue green black
+blue green purple
+blue green brown
+blue black purple
+blue black brown
+blue purple brown
+red green black
+red green purple
+red green brown
+red black purple
+red black brown
+red purple brown
+green black purple
+green black brown
+green purple brown
+
+
+
+https://api.preview.openshift.com/oapi/v1/namespaces/godslayerwars/buildconfigs/godslayerwars/webhooks/9ec6d82f02ab0a18/github
+
+
+
+
+
