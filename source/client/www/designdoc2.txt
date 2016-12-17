@@ -18,6 +18,14 @@ Time icon 220
 Death icon 298
 Beast icon 209
 
+blue key 195
+red key 247
+green key 248
+black key 249
+purple key 250
+brown key 251
+
+
 
 38   6
 
@@ -88,34 +96,27 @@ Brac - Earth - Brown
 
 
 
-https://github.com/GodSlayerWars/GameBuild1
-
-
-Blue Red Green
-Blue red black
-Blue red purple
-blue red brown
-blue green black
-blue green purple
-blue green brown
-blue black purple
-blue black brown
-blue purple brown
-red green black
-red green purple
-red green brown
-red black purple
-red black brown
-red purple brown
-green black purple
-green black brown
-green purple brown
-
-
-
-https://api.preview.openshift.com/oapi/v1/namespaces/godslayerwars/buildconfigs/godslayerwars/webhooks/9ec6d82f02ab0a18/github
+https://github.com/WrenP/gswars.git
 
 
 
 
 
+
+
+      Name: 'Common Event 1'
+    Symbol: common event
+      Show: false
+   Enabled: true
+       Ext: 1
+ Main Bind: this.callCommonEvent.bind(this)
+Actor Bind:
+
+this._chaseRange = x 
+
+
+
+<Max Item: x>
+
+
+https://github.com/WrenP/gswars.git
